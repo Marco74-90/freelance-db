@@ -93,11 +93,14 @@
     }
     ],
     
-    "users": [
+    "openJobs": [
         {
-            "userName": "",
-            "password": ""
+          "id": "",
+          "dateRequest": "",
+          "name": "",
+          "description": "",
+          "freelancerId": ""
         }
     ]
     
-    }
+}
