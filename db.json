@@ -150,25 +150,8 @@
       "bio": " She can do just about anything",
       "id": 10
     }
-
   ],
   "openJobs": [
-    {
-      "id": 0,
-      "dateRequested": "",
-      "name": "",
-      "job": "",
-      "description": "",
-      "freelancerId": ""
-    },
-    {
-      "id": 1,
-      "dateRequested": "2021-05-22",
-      "name": "Jennifer West",
-      "job": "Oil Change",
-      "description": "Buble",
-      "freelancerId": "2"
-    },
     {
       "id": 2,
       "dateRequested": "2021-05-28",
@@ -224,10 +207,20 @@
       ],
       "review": "*****",
       "freelancerId": "2"
+    },
+    {
+      "dateRequested": "2021-05-22",
+      "name": "Jennifer West",
+      "job": "Oil Change",
+      "description": "Buble",
+      "id": 2
+    },
+    {
+      "dateRequested": "2021-05-22",
+      "name": "Jennifer West",
+      "job": "Oil Change",
+      "description": "Buble",
+      "id": 3
     }
   ]
 }
-
-    ]
-    
-  
